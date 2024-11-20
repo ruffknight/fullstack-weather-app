@@ -1,6 +1,8 @@
 
 # Full-stack Weather App
 
+![Local Image](./interface-image.png)
+
 This is a fullstack weather application that fetches historical weather data using the Open-Meteo API. The app allows users to input a location and date range, and it will return daily weather information, including maximum and minimum temperatures and precipitation. The data is displayed in both a chart and a table.
 
 The backend will either return the data from the database (if already accessed) or fetch it from the Open-Meteo API, minimizing API requests.
