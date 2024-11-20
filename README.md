@@ -28,14 +28,6 @@ A demo video can be accessed at https://drive.google.com/file/d/1ldS8joSQLrOX7EY
 bundle install
 ```
 
-#### Setup Database
-
-Make sure to set up the database by running the following command:
-
-```bash
-rails db:migrate
-```
-
 #### Run the Rails Server
 
 To start the backend server, run:
